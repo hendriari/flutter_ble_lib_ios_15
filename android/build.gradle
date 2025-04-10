@@ -24,10 +24,11 @@ apply plugin: 'com.android.library'
 apply plugin: 'idea'
 
 android {
-    compileSdkVersion 30
+    namespace 'com.polidea.flutter_ble_lib'
+    compileSdkVersion 35
 
     defaultConfig {
-        minSdkVersion 18
+        minSdkVersion 21
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     lintOptions {

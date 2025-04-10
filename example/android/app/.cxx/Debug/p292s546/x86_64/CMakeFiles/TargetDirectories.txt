@@ -1,0 +1,2 @@
+C:/Project/flutter/REAL PROJECT/fork-plugin/flutter_ble_lib_ios_15_fork/example/android/app/.cxx/Debug/p292s546/x86_64/CMakeFiles/edit_cache.dir
+C:/Project/flutter/REAL PROJECT/fork-plugin/flutter_ble_lib_ios_15_fork/example/android/app/.cxx/Debug/p292s546/x86_64/CMakeFiles/rebuild_cache.dir
